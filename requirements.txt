@@ -1,0 +1,5 @@
+trio==0.18.0
+beautifulsoup4==4.9.3
+holehe==1.59.2.2
+httpx==0.17.1
+termcolor==1.1.0
