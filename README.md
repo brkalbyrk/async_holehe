@@ -20,3 +20,5 @@ Firstly you can add your multiple email addresses in **assets.txt** and give you
 ```
 python3 async_holehe.py
 ```
+
+Thanks [Ali Yılmaz](https://github.com/tolerans)
